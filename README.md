@@ -1,4 +1,5 @@
 # berke-alemdaroglu-week-6
+## Coroutines
 
 Sunucudan gelen veriyi dispatchers.io ile çağırdığımızda veriler main thread i bloklamadan, arka planda yapılmaktadır. 
 Bu sayede main Thread bloklanmadan verilerin gelmesini sağlayabiliriz.
